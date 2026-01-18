@@ -125,7 +125,7 @@ ultrathink-experiment/
 
 ## References
 
-- [Extended thinking](https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking)
+- [Claude's extended thinking (Anthropic)](https://www.anthropic.com/news/visible-extended-thinking)
 - [GitHub Issue #18570 - Ultrathink rainbow glow](https://github.com/anthropics/claude-code/issues/18570)
 - [GitHub Issue #18072 - MAX_THINKING_TOKENS](https://github.com/anthropics/claude-code/issues/18072)
 
